@@ -1,0 +1,7 @@
+censo\controller\dto\CensoDto.class
+censo\model\Censo.class
+censo\persistence\Conexao.class
+censo\controller\CensoController.class
+censo\CensoApplication.class
+censo\config\validacao\ErroDeFormulario.class
+censo\repository\ICensoRepository.class
